@@ -20,7 +20,7 @@ I used a number of packages in R, these include: broom (Robinson et al., 2020), 
 
 Arel-Bundock, V., 2021. Modelsummary: Summary Tables and Plots for Statistical Models and Data: Beautiful, Customizable, and Publication-Ready. R package version 0.9.4.
 
-European Social Survey (2020) ‘ESS Cumulative File, ESS 1-7, data file edition 1.0’. Norwegian Centre for Research Data. https://doi:10.21338/NSD-ESS-CUMULATIVE. doi:10.21338/NSD-ESS-CUMULATIVE.
+European Social Survey (2020) ‘ESS Cumulative File, ESS 1-7, data file edition 1.0’. Norwegian Centre for Research Data. https://doi:10.21338/NSD-ESS-CUMULATIVE.
 
 Eurostat (2020) ‘EU - Statistics on Income and Living Conditions microdata 2004-2018, release 2020, version 1’. Eurostat. https://doi:10.2907/EUSILC2004-2018V.1.
 
