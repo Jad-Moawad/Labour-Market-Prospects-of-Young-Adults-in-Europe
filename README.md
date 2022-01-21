@@ -14,7 +14,7 @@ The ESS data can be collected through the cumulative data wizard page here: http
 
 Analyses were conducted in R 4.1.2. The packages used are cited in the references.
 
-I used a number of packages in R, these include: broom (Robinson et al., 2020), dplyr (Wickham et al., 2015), ggeffects (Lüdecke, 2018), ggplot2 (Wikcham, 2016), ggpubr (Kassambara, 2020), modelsummary (Arel-Bundock, 2021) and tidyverse (Wickham et al., 2019).![image](https://user-images.githubusercontent.com/71493785/150564019-45b0d01c-ccf4-4be3-b98d-bdacaa474f25.png)
+I used a number of packages in R, these include: broom (Robinson et al., 2020), dplyr (Wickham et al., 2015), ggeffects (Lüdecke, 2018), ggplot2 (Wikcham, 2016), ggpubr (Kassambara, 2020), modelsummary (Arel-Bundock, 2021) and tidyverse (Wickham et al., 2019).
 
 # References:
 
