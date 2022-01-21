@@ -20,9 +20,9 @@ I used a number of packages in R, these include: broom (Robinson et al., 2020), 
 
 Arel-Bundock, V., 2021. Modelsummary: Summary Tables and Plots for Statistical Models and Data: Beautiful, Customizable, and Publication-Ready. R package version 0.9.4.
 
-European Social Survey (2020) ‘ESS Cumulative File, ESS 1-7, data file edition 1.0’. Norwegian Centre for Research Data. doi:10.21338/NSD-ESS-CUMULATIVE. doi:10.21338/NSD-ESS-CUMULATIVE.
+European Social Survey (2020) ‘ESS Cumulative File, ESS 1-7, data file edition 1.0’. Norwegian Centre for Research Data. https://doi:10.21338/NSD-ESS-CUMULATIVE. 
 
-European Social Survey ERIC (ESS ERIC) (2016) ‘European Social Survey (ESS), Cumulative Data Wizard’. doi:10.21338/NSD-ESS-CUMULATIVE.
+European Social Survey ERIC (ESS ERIC) (2016) ‘European Social Survey (ESS), Cumulative Data Wizard’. https://doi:10.21338/NSD-ESS-CUMULATIVE.
 
 Kassambara, A., 2020. ggpubr:“ggplot2” based publication ready plots. R package version 0.4.0. R package version 0.4.0.
 
