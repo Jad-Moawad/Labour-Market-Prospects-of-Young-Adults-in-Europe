@@ -4,7 +4,7 @@ This set of files allows replicating the analyses shown in "Labour Market Prospe
 
 # Data
 
-Analyses use the EU - Statistics on Income and Living Conditions (Eurostata, 2020) and the European Social Survey (Norwegian Centre for Research Data, 2020).
+Analyses use the EU-Statistics on Income and Living Conditions (Eurostata, 2020) and the European Social Survey (Norwegian Centre for Research Data, 2020).
 
 Request access to the EU-SILC data here: https://ec.europa.eu/eurostat/web/microdata/european-union-statistics-on-income-and-living-conditions.
 
