@@ -6,9 +6,9 @@ This set of files allows replicating the analyses shown in "Labour Market Prospe
 
 Analyses use the EU - Statistics on Income and Living Conditions (Eurostata, 2020) and the European Social Survey (Norwegian Centre for Research Data, 2020).
 
-Request access to the EU-SILC data from this link: https://ec.europa.eu/eurostat/web/microdata/european-union-statistics-on-income-and-living-conditions.
+Request access to the EU-SILC data here: https://ec.europa.eu/eurostat/web/microdata/european-union-statistics-on-income-and-living-conditions.
 
-The ESS data can be collected through the cumulative data wizard page here: https://www.europeansocialsurvey.org/downloadwizard/.
+Collect the ESS data from the cumulative data wizard page here: https://www.europeansocialsurvey.org/downloadwizard/.
 
 # Software
 
