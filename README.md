@@ -22,7 +22,7 @@ Arel-Bundock, V., 2021. Modelsummary: Summary Tables and Plots for Statistical M
 
 Eurostat (2020) EU - Statistics on Income and Living Conditions, Microdata 2005 and 2011, release 2020, version 1. https://doi:10.2907/EUSILC2004-2018V.1
 
-Kassambara, A., 2020. ggpubr:“ggplot2” based publication ready plots. R package version 0.4.0. R package version 0.4.0.
+Kassambara, A., 2020. ggpubr:“ggplot2” based publication ready plots. R package version 0.4.0. 
 
 Lüdecke, D., 2018. ggeffects: Tidy data frames of marginal effects from regression models. Journal of Open Source Software, 3(26), p.772. https://doi.org/10.21105/joss.00772.
 
