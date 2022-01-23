@@ -20,13 +20,13 @@ I used a number of packages in R, these include: broom (Robinson et al., 2020), 
 
 Arel-Bundock, V., 2021. Modelsummary: Summary Tables and Plots for Statistical Models and Data: Beautiful, Customizable, and Publication-Ready. R package version 0.9.4.
 
-Eurostat (2020) EU - Statistics on Income and Living Conditions, Microdata 2005 and 2011, release 2020, version 1. https:doi:10.2907/EUSILC2004-2018V.1
+Eurostat (2020) EU - Statistics on Income and Living Conditions, Microdata 2005 and 2011, release 2020, version 1. https://doi:10.2907/EUSILC2004-2018V.1
 
 Kassambara, A., 2020. ggpubr:“ggplot2” based publication ready plots. R package version 0.4.0. R package version 0.4.0.
 
 Lüdecke, D., 2018. ggeffects: Tidy data frames of marginal effects from regression models. Journal of Open Source Software, 3(26), p.772. https://doi.org/10.21105/joss.00772.
 
-Norwegian Centre for Research Data (2020) European Social Survey, ESS Cumulative File, rounds 1-7, data file edition 1.0. https:doi:10.21338/NSD-ESS-CUMULATIVE.
+Norwegian Centre for Research Data (2020) European Social Survey, ESS Cumulative File, rounds 1-7, data file edition 1.0. https://doi:10.21338/NSD-ESS-CUMULATIVE.
 
 Robinson, D., Hayes, A., and Couch, S. (2020). broom: Convert statistical objects into tidy tibbles. R package version 0.7.10.
 
